@@ -1,0 +1,15 @@
+{
+  "name": "e-angular",
+  "version": "1.0.0",
+  "description": "A angular 1.0 sandbox project.",
+  "main": "index.js",
+  "repository": "git@github.com:maandr/e-angular.git",
+  "author": "Mats Andresen <mats.andresen@gmx.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "open app/index.html"
+  },
+  "dependencies": {
+    "angular": "^1.6.9"
+  }
+}
